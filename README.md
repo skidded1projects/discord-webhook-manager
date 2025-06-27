@@ -30,7 +30,7 @@ The crab theme is just for fun. This is straightforward code, built to work well
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/mystic-hooks.git
+git clone (https://github.com/skidded1projects/discord-webhook-manager.git)
 cd mystic-hooks
 pip install -r requirements.txt
 ![image](https://github.com/user-attachments/assets/7a9346da-85c7-4ec5-b5c6-c983954cab52)
