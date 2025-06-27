@@ -32,5 +32,5 @@ The crab theme is just for fun. This is straightforward code, built to work well
 ```bash
 git clone (https://github.com/skidded1projects/discord-webhook-manager.git)
 cd mystic-hooks
-pip install -r requirements.txt
-![image](https://github.com/user-attachments/assets/7a9346da-85c7-4ec5-b5c6-c983954cab52)
+pip install -r requirements.txt!
+[459795630-7a9346da-85c7-4ec5-b5c6-c983954cab52](https://github.com/user-attachments/assets/223ded41-3046-40b9-8701-ebf5c521a94f)
